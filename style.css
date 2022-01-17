@@ -1,0 +1,16 @@
+#user-list {
+  display: flex;
+  margin-top: 5px;
+}
+.images {
+  margin-left: 10px;
+}
+span {
+  margin-left: 10px;
+}
+.email {
+  margin-left: 12px;
+}
+.deletedbutton {
+  margin-left: 12px;
+}
